@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Geo2</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="list_activity">List Page</string>
+    <string name="r_list">List</string>
+    <string name="map_activity">GMap</string>
+</resources>

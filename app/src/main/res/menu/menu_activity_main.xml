@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.archek.geo2.MapsActivity">
+
+    <item
+        android:id="@+id/gmap1"
+        android:orderInCategory="1"
+        android:title="@string/map_activity"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/listItem"
+        android:orderInCategory="2"
+        android:title="@string/r_list"
+        app:showAsAction="never" />
+
+</menu>
